@@ -1,6 +1,6 @@
 # npmtest-gulp-rev-easy
 
-#### test coverage for  [gulp-rev-easy (v1.2.3)](https://github.com/timtian/gulp-rev-easy)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-rev-easy.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-rev-easy) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-rev-easy.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-rev-easy)
+#### basic test coverage for  [gulp-rev-easy (v1.2.3)](https://github.com/timtian/gulp-rev-easy)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-rev-easy.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-rev-easy) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-rev-easy.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-rev-easy)
 
 #### easy add hash to asset path uc.js to uc.js?v=afb23 or simple add date uc.js to uc.js?v=201503031214
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-gulp-rev-easy/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-gulp-rev-easy/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-gulp-rev-easy/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-gulp-rev-easy/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gulp-rev-easy/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gulp-rev-easy/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-gulp-rev-easy/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-gulp-rev-easy/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gulp-rev-easy/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gulp-rev-easy/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-gulp-rev-easy/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-gulp-rev-easy/build/coverage.html/index.html)
 
@@ -85,7 +85,8 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "version": "1.2.3"
+    "version": "1.2.3",
+    "bin": {}
 }
 ```
 
